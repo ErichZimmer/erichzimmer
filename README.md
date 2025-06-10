@@ -7,9 +7,22 @@ I am an aspiring systems engineer/software developer who has a vested interest i
 </summary>
   
 ## Github Stats:
+<div>
+  <a href>
+    <img 
+      align="center" 
+      src=https://github-readme-stats.vercel.app/api/top-langs/?username=erichzimmer&layout=donut&theme=darcula&show_icons=true
+    />
+  </a>
+  
+  <a href>
+    <img 
+      align="center" 
+      src=https://github-readme-stats.vercel.app/api?username=erichzimmer&include_all_commits=true&show=reviews&show_icons=true&theme=darcula
+    />
+  </a>
+</div>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=erichzimmer&layout=donut&theme=darcula&show_icons=true
-https://github-readme-stats.vercel.app/api?username=erichzimmer&include_all_commits=true&show=reviews&show_icons=true&theme=darcula
 
 ## Core Philosophy
 I believe in open-source software and hardware as it provides the basis to further society as a whole. This includes both free and paid entities as I also believe developers and engineers should have the option to provide paid services through their open-source creations (e.g., projects may be free as in source code, but not free as in beer). As such, I plan on placing significant efforts on creating different open-source software, firmware, and hardware throughout different fields to help provide the basis to spread this philosophy so everyone can benefit as a whole.
